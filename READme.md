@@ -26,8 +26,6 @@
 
 *italicized text*
 
-***really important***
-
 $$
 x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
 $$
